@@ -13,28 +13,28 @@ Pada bagian preprocessing data di rescale 1/255 lalu rotasi, zoom, shear, shift 
 
 Untuk model kami menggunakan model _MobileNet_ dan ini adalah ilustrasi bagaimana _MobileNet_ berkerja
 
-![image 2](Screenshot/image%202.png)
+![image 2](Images/Mobilenetv2-architecture.png)
 
 Summary Model:
 
-![image 3](Screenshot/summary.png)
+![image 3](Images/Summary.png)
 
 Graph accuracy dan loss model:
 
-![image 4](Screenshot/graph.png)
+![image 4](Images/Train&Loss-Graph.png)
 
 Evaluate Model:
 
-![image 5](Screenshot/result.png)
+![image 5](Images/Classification-Report.png)
 
 ## Prediction and Deployment
 
 Kami mengambil 10 image acak dari testing dan memperhatikan apakah model dapat memprediksi image dengan baik, berikut ini adalah hasilnya:
 
-![image 6](Screenshot/predict.png)
+![image 6](Images/Predict.png)
 
 Deployment kami menggunakan streamlit dan berikut ini contohnya:
 
-![image 7](Screenshot/deploy-1.png)
+![image 7](Images/Tampilan.png)
 
-![image 8](Screenshot/deploy-2.png)
+![image 8](Images/Hasil-prediksi.png)
