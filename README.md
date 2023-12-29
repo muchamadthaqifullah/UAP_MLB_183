@@ -21,7 +21,7 @@ Summary Model:
 
 Graph accuracy dan loss model:
 
-![image 4](Images/Acc%Loss-Graph.png)
+![image 4](Images/Acc&Loss-Graph.png)
 
 Classifcation Report Model:
 
