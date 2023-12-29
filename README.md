@@ -33,7 +33,7 @@ Kami mengambil 10 image acak dari testing dan memperhatikan apakah model dapat m
 
 ![image 6](Images/Predict.png)
 
-Deployment kami menggunakan streamlit dan berikut ini contohnya:
+Deployment ini menggunakan streamlit dan dapat dilihat sebagai berikut :
 
 ![image 7](Images/Tampilan.png)
 
