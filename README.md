@@ -1,4 +1,4 @@
-# ⚡️ RPS ⚡️
+# ⚡️ RPS Images⚡️
 
 ## Overview Problems
 Masalah yang ditemukan dari project ini yaitu bagaimana cara membuat model dengan akurasi yang baik dari dataset RPS yang telah diberikan.
