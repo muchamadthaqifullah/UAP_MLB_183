@@ -3,7 +3,7 @@
 ## Overview Problems
 Permasalahan dari project ini yaitu bagaimana cara membuat model dengan akurasi bagus dari dataset RPS
 
-![image 1](Images/Gambar-dari-masing-masing-kelas.png)
+![image 1](Images/Mobilenetv2-architecture.png)
 
 ## Overview Dataset
 Dataset ini sudah tersedia pada website tensorflow, dataset dibagi menjadi 70% training, 25% validation, 5% testing.<br>link url untuk download dataset: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
