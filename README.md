@@ -6,7 +6,7 @@ Permasalahan dari project ini yaitu bagaimana cara membuat model dengan akurasi 
 ![image 1](Images/Gambar-tiap-kelas.png)
 
 ## Overview Dataset
-Dataset ini sudah tersedia pada website tensorflow, dataset dibagi menjadi 70% training, 25% validation, 5% testing.<br>link url untuk download dataset: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+Dataset ini sudah tersedia pada website tensorflow, dataset dibagi menjadi 70% training, 25% validation, 5% testing.<br>link url untuk download dataset: https://drive.google.com/drive/folders/16ugqhXnjkhJS6xmP3D_PA2_Mj-nTHQdD?usp=drive_link
 
 ## Preprocessing and Modeling
 Pada bagian preprocessing data di rescale 1/255 lalu rotasi, zoom, shear, shift dengan masing-masing 20%, random flip dan fill nearest setelah rotasi dan shift
