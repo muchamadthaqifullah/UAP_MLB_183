@@ -35,6 +35,6 @@ Prediksi yang diambil yaitu 10 gambar acak dari testing dan melihat bagaimana mo
 
 Deployment ini menggunakan streamlit dan dapat dilihat sebagai berikut :
 
-![image 7](Images/Tampinlan.png)
+![image 7](Images/Tampilan.png)
 
 ![image 8](Images/Hasil-predict.png)
