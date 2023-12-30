@@ -37,4 +37,4 @@ Deployment ini menggunakan streamlit dan dapat dilihat sebagai berikut :
 
 ![image 7](Images/Tampilan.png)
 
-![image 8](Images/Hasil-prediksi.png)
+![image 8](Images/Hasil-predict.png)
