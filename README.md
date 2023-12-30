@@ -33,8 +33,8 @@ Prediksi yang diambil yaitu 10 gambar acak dari testing dan melihat bagaimana mo
 
 ![image 6](Images/Predict.png)
 
-Deployment ini menggunakan streamlit dan dapat dilihat sebagai berikut :
+Deployment ini menggunakan Flask dan dapat dilihat sebagai berikut :
 
-![image 7](Images/Tampilan.png)
+![image 7](Images/TampilanFlask.png)
 
 ![image 8](Images/Hasil-predict.png)
